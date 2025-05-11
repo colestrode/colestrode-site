@@ -27,3 +27,14 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/colestrode/colestrode-site
+
+socials:
+  github:
+    title: Github 
+    url: https://github.com/colestrode
+  linkedin:
+    title: LinkedIn 
+    url: https://www.linkedin.com/in/colestrode/
+  ravelry:
+    title: Ravelry 
+    url: https://www.ravelry.com/projects/colestrode
