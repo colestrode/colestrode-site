@@ -3,30 +3,28 @@ plugins:
  - jekyll-paginate
 
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            Cole Strode
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://colestro.de
-baseurl:          /
+title: Cole Strode
+tagline: 'Hey there 👋'
+description: 'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url: http://colestro.de
+baseurl: /
 
 author:
-  name:           'Cole Strode'
-  url:            http://colestro.de
+  name: 'Cole Strode'
+  url: http://colestro.de
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.1.0
-
 github:
-  repo:           https://github.com/colestrode/colestrode-site
+  repo: https://github.com/colestrode/colestrode-site
 
 socials:
   github:
