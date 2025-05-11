@@ -27,12 +27,12 @@
       {% endfor %}
       {% endcomment %}
 
-      <a class="sidebar-nav-item active" href="https://theeffortlessmanager.com/">The Effortless Manager</a>
       {% for item in site.socials %}
         {% if item[1].title != null %}
           <a class="sidebar-nav-item" href="{{ item[1].url }}">{{ item[1].title }}</a>
         {% endif %}
       {% endfor %}
+      <a class="sidebar-nav-item active" href="https://theeffortlessmanager.com/">The Effortless Manager</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
